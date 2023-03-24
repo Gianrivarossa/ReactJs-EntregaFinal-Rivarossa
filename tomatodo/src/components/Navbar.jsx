@@ -18,7 +18,7 @@ function Navbar() {
           <a onClick={handleClick} href="#h">Shop</a>
           <a onClick={handleClick} href="#h">Nosotros</a>
           <a onClick={handleClick} href="#h">Contacto</a>
-          <a onClick={handleClick} href="#h">Carrito</a>
+          <a onClick={handleClick} href="#h"> <CartWidget/> </a>
         </div>
         <div className='burguer'>
           <BurguerButton clicked={clicked} handleClick={handleClick} />
