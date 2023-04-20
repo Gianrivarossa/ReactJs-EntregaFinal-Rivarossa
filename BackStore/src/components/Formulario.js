@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import BotonesCompra from './BotonesCompra'
-import {CarritoConsumer} from '../context/CarritoProvider';
+import {CarritoConsumer} from '../Context/CarritoProvider';
 import '../styles/Formulario.css'
 import useFirebase from '../hooks/useFirebase';
 

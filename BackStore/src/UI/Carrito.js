@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/Carrito.css'
 import AgregadoCarrito from './AgregadoCarrito'
-import { Link } from 'react-dom'
+import { Link } from 'react-router-dom'
 
 function Carrito({cantidad}) {
     return (
@@ -13,4 +13,4 @@ function Carrito({cantidad}) {
     )
 }
 
-export default Carrito
+export default Carritox

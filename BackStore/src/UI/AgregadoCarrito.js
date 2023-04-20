@@ -1,5 +1,5 @@
 import React from 'react'
-import {CarritoConsumer} from '../context/CarritoProvider.js';
+import {CarritoConsumer} from '../Context/CarritoProvider';
 import '../styles/AgregadoCarrito.css'
 
 function AgregadoCarrito() {

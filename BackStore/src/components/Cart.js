@@ -1,5 +1,5 @@
 import React from 'react'
-import {CarritoConsumer} from '../context/CarritoProvider';
+import {CarritoConsumer} from '../Context/CarritoProvider';
 import CompraVacia from '../components/CompraVacia'
 import CompraNormal from './CompraNormal';
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/ItemList.css'
-import {CarritoConsumer} from '../context/CarritoProvider';
+import {CarritoConsumer} from '../Context/CarritoProvider';
 
 import Item from './Item'
 import Spinner from '../UI/Spinner';

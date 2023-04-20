@@ -1,7 +1,7 @@
 import ItemCount from './ItemCount'
 import '../styles/ItemDetail.css'
 import TerminarCompra from './TerminarCompra';
-import {CarritoConsumer} from '../context/CarritoProvider';
+import {CarritoConsumer} from '../Context/CarritoProvider';
 import { useState } from 'react';
 import Spinner from '../UI/Spinner';
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import {CarritoConsumer} from '../context/CarritoProvider';
+import {CarritoConsumer} from '../Context/CarritoProvider';
 import Item from './Item'
 import Formulario from './Formulario';
 import '../styles/Cart.css' 

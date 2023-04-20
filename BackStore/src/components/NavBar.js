@@ -4,7 +4,7 @@ import Cerrar from '../imagenes/cerrar.png'
 import Carrito from '../UI/Carrito'
 import '../styles/NavBar.css'
 import{Link, NavLink} from 'react-router-dom'
-import { CarritoConsumer } from '../context/CarritoProvider'
+import { CarritoConsumer } from '../Context/CarritoProvider'
 
 
 
